@@ -1,0 +1,29 @@
+{
+  "name": "kanban-board",
+  "version": "0.0.1",
+  "description": "Pro-react sample project",
+  "main": "app.js",
+  "scripts": {
+    "test": "N?A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeker8/kanban-board-exercise.git"
+  },
+  "keywords": [
+    "kanban",
+    "react"
+  ],
+  "author": "seeker8",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seeker8/kanban-board-exercise/issues"
+  },
+  "homepage": "https://github.com/seeker8/kanban-board-exercise#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.25.0",
+    "webpack": "^3.2.0",
+    "webpack-dev-server": "^2.5.1"
+  }
+}
